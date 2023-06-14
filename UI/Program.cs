@@ -1,4 +1,5 @@
 using Microsoft.Extensions.DependencyInjection;
+using UI.Views;
 
 namespace UI;
 
@@ -13,6 +14,8 @@ internal static class Program
         Services = ConfigureServices();
 
         ApplicationConfiguration.Initialize();
+        var splashContext = new SplashAppContext(new MainForm(), new Splash());
+        Application.Run(splashContext);
         //Application.Run(new Form1());
     }
 
