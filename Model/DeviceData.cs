@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace Model;
 public class DeviceData
 {
-    public uint Id { get; set; }
-    public Guid DeviceId { get; set; }
+    public int Id { get; set; }
+    public string DeviceId { get; set; }
     public string? ItemName { get; set; }
     public string? ItemUnit { get; set; }
     public string ItemValue { get; set; }

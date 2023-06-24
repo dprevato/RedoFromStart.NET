@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using Serilog;
 
 namespace UI.Views;
 public partial class Splash : Form
@@ -14,4 +6,16 @@ public partial class Splash : Form
     public Splash() {
         InitializeComponent();
     }
+
+    #region Overrides of Form
+
+    protected override void OnLoad(EventArgs e) {
+        Log.Information("Splash Form is loading");
+    }
+
+    protected override void OnClosed(EventArgs e) {
+        Log.Information("Splash Form is now closed.");
+    }
+
+    #endregion
 }

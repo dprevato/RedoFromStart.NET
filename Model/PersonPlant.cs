@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace Model;
 public class PersonPlant
 {
-    public Guid PlantId { get; set; }
-    public Guid PersonId { get; set; }
+    public string PlantId { get; set; }
+    public string PersonId { get; set; }
     public string RoleId { get; set; }
 
     public DateTime SettledOn { get; set; }

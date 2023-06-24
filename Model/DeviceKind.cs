@@ -1,4 +1,6 @@
-﻿namespace Model;
+﻿using System.Collections.ObjectModel;
+
+namespace Model;
 
 public class DeviceKind
 {
@@ -7,11 +9,7 @@ public class DeviceKind
 
     public DateTime? Ts { get; set; }
 
-    public ICollection<ChartDefinition> ChartDefinitions { get; set; }
-    public ICollection<Device> Devices { get; set; }
+    public ObservableCollection<ChartDefinition> ChartDefinitions { get; set; } = new();
+    public ObservableCollection<Device> Devices { get; set; } = new();
 
-    public DeviceKind() {
-        ChartDefinitions = new HashSet<ChartDefinition>();
-        Devices = new HashSet<Device>();
-    }
 }

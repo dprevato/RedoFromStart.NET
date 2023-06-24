@@ -1,8 +1,8 @@
 ﻿namespace Model;
 public class Plot
 {
-    public Guid Id { get; set; }
-    public Guid ChartId { get; set; }
+    public int Id { get; set; }
+    public int ChartId { get; set; }
     public int PlotType { get; set; }   // tipo di curva - 0 = Istogramma, 1 = curva
     public string? PlotColor { get; set; }
     public string? PlotLabel { get; set; }

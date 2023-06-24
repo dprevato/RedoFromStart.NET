@@ -1,5 +1,4 @@
 {
-  "GitBranch": "master",
   "ContextKeeper": "1.98",
   "State": [
     {
@@ -15,72 +14,8 @@
         {
           "Documents": [
             {
-              "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\StatusHistory.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\StatusHistory.cs",
-              "FullName": "StatusHistory.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 9,
-              "Column": 53,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\Role.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\Role.cs",
-              "FullName": "Role.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 13,
-              "Column": 2,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\ReadingCache.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\ReadingCache.cs",
-              "FullName": "ReadingCache.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 14,
-              "Column": 2,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\Reading.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\Reading.cs",
-              "FullName": "Reading.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 19,
-              "Column": 2,
-              "IsPinned": false
-            },
-            {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\PM.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\PM.cs",
+              "RelativePath": "..\\Data\\Configuration\\PM.cs",
               "FullName": "PM.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -90,13 +25,14 @@
                 "UnitType": "Stretch",
                 "Value": 200
               },
-              "Line": 30,
-              "Column": 2,
-              "IsPinned": false
+              "Line": 29,
+              "Column": 9,
+              "IsPinned": false,
+              "IsSelected": true
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\Plot.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\Plot.cs",
+              "RelativePath": "..\\Data\\Configuration\\Plot.cs",
               "FullName": "Plot.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -112,7 +48,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\Chart.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\Chart.cs",
+              "RelativePath": "..\\Data\\Configuration\\Chart.cs",
               "FullName": "Chart.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -128,7 +64,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\ChartDefinition.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\ChartDefinition.cs",
+              "RelativePath": "..\\Data\\Configuration\\ChartDefinition.cs",
               "FullName": "ChartDefinition.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -144,7 +80,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\PlantInfo.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\PlantInfo.cs",
+              "RelativePath": "..\\Data\\Configuration\\PlantInfo.cs",
               "FullName": "PlantInfo.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -160,7 +96,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\Plant.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\Plant.cs",
+              "RelativePath": "..\\Data\\Configuration\\Plant.cs",
               "FullName": "Plant.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -176,7 +112,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\PersonPlant.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\PersonPlant.cs",
+              "RelativePath": "..\\Data\\Configuration\\PersonPlant.cs",
               "FullName": "PersonPlant.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -192,7 +128,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\Area.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\Area.cs",
+              "RelativePath": "..\\Data\\Configuration\\Area.cs",
               "FullName": "Area.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -202,14 +138,13 @@
                 "UnitType": "Stretch",
                 "Value": 200
               },
-              "Line": 9,
-              "Column": 47,
-              "IsPinned": false,
-              "IsSelected": true
+              "Line": 13,
+              "Column": 1,
+              "IsPinned": false
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\Person.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\Person.cs",
+              "RelativePath": "..\\Data\\Configuration\\Person.cs",
               "FullName": "Person.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -225,7 +160,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\MetaDictionary.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\MetaDictionary.cs",
+              "RelativePath": "..\\Data\\Configuration\\MetaDictionary.cs",
               "FullName": "MetaDictionary.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -241,7 +176,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\Journal.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\Journal.cs",
+              "RelativePath": "..\\Data\\Configuration\\Journal.cs",
               "FullName": "Journal.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -257,7 +192,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\Formula.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\Formula.cs",
+              "RelativePath": "..\\Data\\Configuration\\Formula.cs",
               "FullName": "Formula.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -273,7 +208,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\DeviceKind.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\DeviceKind.cs",
+              "RelativePath": "..\\Data\\Configuration\\DeviceKind.cs",
               "FullName": "DeviceKind.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -289,7 +224,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\DeviceData.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\DeviceData.cs",
+              "RelativePath": "..\\Data\\Configuration\\DeviceData.cs",
               "FullName": "DeviceData.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -305,7 +240,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Data\\Configuration\\Device.cs",
-              "RelativePath": "..\\..\\Data\\Configuration\\Device.cs",
+              "RelativePath": "..\\Data\\Configuration\\Device.cs",
               "FullName": "Device.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -335,8 +270,8 @@
     {
       "WindowType": "ExternalWindow",
       "Window": {
-        "Left": 4589,
-        "Top": 95,
+        "Left": 4809,
+        "Top": 0,
         "Width": 1531,
         "Height": 1243
       },
@@ -344,57 +279,8 @@
         {
           "Documents": [
             {
-              "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\StatusHistory.cs",
-              "RelativePath": "..\\..\\Model\\StatusHistory.cs",
-              "FullName": "StatusHistory.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 16,
-              "Column": 1,
-              "IsPinned": false,
-              "IsSelected": true
-            },
-            {
-              "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\ReadingCache.cs",
-              "RelativePath": "..\\..\\Model\\ReadingCache.cs",
-              "FullName": "ReadingCache.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 16,
-              "Column": 1,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\Reading.cs",
-              "RelativePath": "..\\..\\Model\\Reading.cs",
-              "FullName": "Reading.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 18,
-              "Column": 1,
-              "IsPinned": false
-            },
-            {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\PM.cs",
-              "RelativePath": "..\\..\\Model\\PM.cs",
+              "RelativePath": "..\\Model\\PM.cs",
               "FullName": "PM.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -406,11 +292,12 @@
               },
               "Line": 51,
               "Column": 2,
-              "IsPinned": false
+              "IsPinned": false,
+              "IsSelected": true
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\Chart.cs",
-              "RelativePath": "..\\..\\Model\\Chart.cs",
+              "RelativePath": "..\\Model\\Chart.cs",
               "FullName": "Chart.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -426,7 +313,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\ChartDefinition.cs",
-              "RelativePath": "..\\..\\Model\\ChartDefinition.cs",
+              "RelativePath": "..\\Model\\ChartDefinition.cs",
               "FullName": "ChartDefinition.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -442,7 +329,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\Plot.cs",
-              "RelativePath": "..\\..\\Model\\Plot.cs",
+              "RelativePath": "..\\Model\\Plot.cs",
               "FullName": "Plot.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -458,7 +345,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\PlantInfo.cs",
-              "RelativePath": "..\\..\\Model\\PlantInfo.cs",
+              "RelativePath": "..\\Model\\PlantInfo.cs",
               "FullName": "PlantInfo.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -474,7 +361,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\Plant.cs",
-              "RelativePath": "..\\..\\Model\\Plant.cs",
+              "RelativePath": "..\\Model\\Plant.cs",
               "FullName": "Plant.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -490,7 +377,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\Role.cs",
-              "RelativePath": "..\\..\\Model\\Role.cs",
+              "RelativePath": "..\\Model\\Role.cs",
               "FullName": "Role.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -506,7 +393,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\PersonPlant.cs",
-              "RelativePath": "..\\..\\Model\\PersonPlant.cs",
+              "RelativePath": "..\\Model\\PersonPlant.cs",
               "FullName": "PersonPlant.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -522,7 +409,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\Area.cs",
-              "RelativePath": "..\\..\\Model\\Area.cs",
+              "RelativePath": "..\\Model\\Area.cs",
               "FullName": "Area.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -538,7 +425,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\Person.cs",
-              "RelativePath": "..\\..\\Model\\Person.cs",
+              "RelativePath": "..\\Model\\Person.cs",
               "FullName": "Person.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -554,7 +441,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\MetaDictionary.cs",
-              "RelativePath": "..\\..\\Model\\MetaDictionary.cs",
+              "RelativePath": "..\\Model\\MetaDictionary.cs",
               "FullName": "MetaDictionary.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -570,7 +457,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\Journal.cs",
-              "RelativePath": "..\\..\\Model\\Journal.cs",
+              "RelativePath": "..\\Model\\Journal.cs",
               "FullName": "Journal.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -586,7 +473,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\Formula.cs",
-              "RelativePath": "..\\..\\Model\\Formula.cs",
+              "RelativePath": "..\\Model\\Formula.cs",
               "FullName": "Formula.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -602,7 +489,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\DeviceKind.cs",
-              "RelativePath": "..\\..\\Model\\DeviceKind.cs",
+              "RelativePath": "..\\Model\\DeviceKind.cs",
               "FullName": "DeviceKind.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -618,7 +505,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\DeviceData.cs",
-              "RelativePath": "..\\..\\Model\\DeviceData.cs",
+              "RelativePath": "..\\Model\\DeviceData.cs",
               "FullName": "DeviceData.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",
@@ -634,7 +521,7 @@
             },
             {
               "FilePath": "D:\\(GitHub)\\RedoFromStart.NET\\Model\\Device.cs",
-              "RelativePath": "..\\..\\Model\\Device.cs",
+              "RelativePath": "..\\Model\\Device.cs",
               "FullName": "Device.cs",
               "DockedHeight": {
                 "UnitType": "Stretch",

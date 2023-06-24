@@ -5,9 +5,9 @@ namespace Model;
 
 public class StatusHistory
 {
-    public Guid Id { get; set; }
+    public int Id { get; set; }
     // ReSharper disable once InconsistentNaming
-    public Guid PMId { get; set; }
+    public string PMId { get; set; }
     public DateTime ChangeDate { get; set; }
     public Status NewStatus { get; set; }
     public string Details { get; set; }

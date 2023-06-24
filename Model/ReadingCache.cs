@@ -7,9 +7,9 @@ namespace Model;
 /// </summary>
 public class ReadingCache
 {
-    public string PMCode { get; set; }
-    public DateTime ScanDate { get; set; }
+    public string PMId { get; set; }
+    public DateTime ReadingDateTime { get; set; }
     public string? Tag { get; set; }
-    public double ScanValue { get; set; }
+    public decimal? ReadingValue { get; set; }
     public DateTime AcquisitionDate { get; set; }
 }

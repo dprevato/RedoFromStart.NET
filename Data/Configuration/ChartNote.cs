@@ -9,6 +9,5 @@ public class ChartNoteMap : IEntityTypeConfiguration<ChartNote>
         e.HasKey(x => x.Id);
         e.Property(x => x.Xpos).HasColumnType("TIMESTAMP");
         e.Property(x => x.Ypos).HasColumnType("NUMERIC(10, 4)");
-
     }
 }
